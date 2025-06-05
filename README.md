@@ -22,14 +22,6 @@
 - Hosting: Cloudflare, Netlify
 - Other: Pair programming, technical communication, SDL, Agile, and Scrum methodologies
 
-## 📚 From Content to Code
-
-Before transitioning to a career in tech, I was an SEO content manager and copywriter with a decade’s experience in both agency and in-house environments.
-
-In March 2025, I joined the Software Development Bootcamp in JavaScript at Northcoders. During this intensive coding bootcamp, I built a strong foundation in full-stack JavaScript and applied it to real-world challenges across front-end and back-end development.
-
-Thanks to my background in SEO content marketing, I’m adept at thinking critically and working collaboratively to solve problems, skills that serve me well as a software developer.
-
 ## 📩 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-chun-long-郭俊龙-1125b1a5/)
